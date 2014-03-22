@@ -26,6 +26,7 @@ Workflow
 	* if the commit message ends in `deploy:true` check if that directory exists
 		* if it doesn't create it
 		* if it does sync it with local directory
+		
 
 
 
